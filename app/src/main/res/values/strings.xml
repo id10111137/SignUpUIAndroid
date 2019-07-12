@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SignUp UI Android</string>
+
+
+    <!-- Login -->
+    <string name="mEmail">Email</string>
+    <string name="mPassword">Password</string>
+    <string name="mLogin">Login</string>
+    <string name="mTRegister">Dont Have Account ?</string>
+    <string name="mGoRegister">Go Register</string>
+    <string name="mLupaPassword">Reset Password</string>
+
+    <!--Register-->
+    <string name="mFullName">Full Name</string>
+    <string name="mRegister">Register</string>
+    <string name="mGoLogin">Sudah Punya Akun, Login Disini</string>
+    <string name="sign_up_togel">Sign-Up Togel</string>
+    <string name="or_sign_with">Or Sign With</string>
+</resources>
